@@ -1,7 +1,8 @@
-package com.dicoding.suargaapp
+package com.dicoding.suargaapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.dicoding.suargaapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
